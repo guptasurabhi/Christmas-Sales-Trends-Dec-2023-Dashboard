@@ -1,8 +1,11 @@
-# Christmas-Sales-Trends-Dec-2023-Dashboard
+Christmas-Sales-Trends-Dec-2023-Dashboard
 
 In this project I analysis Christmas sales & trends of last year (Dec 2023) by the help of Power  Bi.
 First I clean the raw data by the help of power query editor and create new measures and new columns and then create visuals.
 Unclean Data contain columns:
+
+
+
 TransactionID (Unique identifier for each transaction)
 Date (Date of the transaction, format: YYYY-MM-DD)
 Time (Time of the transaction, format: HH:MM:SS)
@@ -31,11 +34,11 @@ ReturnFlag (Boolean: True if the product was returned, False otherwise)
 
 Data cleaning steps:
 
-check for duplicates
-check for null values
-change datatypes
-create custom columns = total price,total price after discount
-create conditional columns= Types of order,items returned or not returned
+check for duplicates,
+check for null values,
+change datatypes,
+create custom columns = total price,total price after discount,
+create conditional columns= Types of order,items returned or not returned,
 create new measures
 
 after that create visuals
