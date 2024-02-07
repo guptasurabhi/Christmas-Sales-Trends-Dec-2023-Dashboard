@@ -44,5 +44,3 @@ create new measures
 after that create visuals
 
 
-
-
