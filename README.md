@@ -42,3 +42,7 @@ create conditional columns= Types of order,items returned or not returned,
 create new measures
 
 after that create visuals
+
+
+
+
